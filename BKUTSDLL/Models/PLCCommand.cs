@@ -23,7 +23,7 @@ namespace BKUTSDLL.Models
 
             if (command == null)
             {
-                throw new Exception("Komut bulunamadı !");
+                throw new Exception("Komut bulunamadı !!");
             }
 
 
