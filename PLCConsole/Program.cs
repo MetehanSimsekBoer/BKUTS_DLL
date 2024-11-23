@@ -1,6 +1,6 @@
-﻿using BKUTSDLL;
-using BKUTSDLL.Models;
-using BKUTSDLL.Service;
+﻿using BKUTS_DLL;
+using BKUTS_DLL.Models;
+using BKUTS_DLL.Service;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -29,6 +29,7 @@ class Program
 
 
         PLCCommandExucutorService.ExecuteCommand(PLCBrand.SiemensS71200, "Start");
+     
 
     }
 }
