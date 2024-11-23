@@ -1,4 +1,4 @@
-﻿using BKUTSDLL.Models;
+﻿using BKUTS_DLL.Models;
 using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BKUTSDLL.Service
+namespace BKUTS_DLL.Service
 {
     public class DatabaseService
     {

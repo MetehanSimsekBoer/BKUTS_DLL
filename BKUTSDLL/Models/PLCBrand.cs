@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BKUTSDLL.Models
+namespace BKUTS_DLL.Models
 {
     public enum PLCBrand
     {

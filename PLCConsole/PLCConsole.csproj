@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BKUTSDLL\BKUTS_DLL.csproj" />
+    <ProjectReference Include="..\BKUTS_DLL\BKUTS_DLL.csproj" />
   </ItemGroup>
 
   <ItemGroup>
